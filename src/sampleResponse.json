@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "thewashingtonpost",
+                "name": "The Washington Post"
+            },
+            "author": "Sarah Dadouch, Annabelle Timsit",
+            "title": "Salma alShehab, Saudi activist, sentenced to 34 years for tweeting  The Washington Post",
+            "description": "Salma alShehab was initially sentenced to six years for her tweets, but the counterterrorism court increased the penalty to 34 years when she appealed.",
+            "url": "https://www.washingtonpost.com/world/2022/08/17/saudisalmashehabactivist/",
+            "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/MHOYRFQ6GUI63HHGNASTXUYYMQ.jpg&w=1440",
+            "publishedAt": "20220817T16:28:18Z",
+            "content": "Comment on this story\r\nBEIRUT Saudi Arabia quietly sentenced a woman last week to 34 years in prison over her Twitter activity, marking the longest Saudi sentence everfor a peaceful activist and laun… [+6390 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kara Scannell, CNN",
+            "title": "Former CFO of Trump Organization expected to plead guilty but will not cooperate in probe of family business  CNN",
+            "description": "The former chief financial officer of the Trump Organization is expected to plead guilty Thursday to a 15year tax fraud scheme, but he will not enter into a cooperation agreement to aid New York prosecutors in their criminal investigation of the real estate …",
+            "url": "https://www.cnn.com/2022/08/17/politics/allenweisselbergpleadguiltytrumporganizationformercfo/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/21070114373602weisselbergarrivescourt0701supertease.jpg",
+            "publishedAt": "20220817T16:19:00Z",
+            "content": "(CNN)The former chief financial officer of the Trump Organization is expected to plead guilty Thursday to a 15year tax fraud scheme, but he will not enter into a cooperation agreement to aid New Yor… [+869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Samantha Subin, Tanaya Macheel",
+            "title": "Dow falls 300 points as rally fizzles, Fed minutes ahead  CNBC",
+            "description": "Stocks fell on Wednesday as the rally on Wall Street that has propelled equity prices higher since midJune appeared to lose steam",
+            "url": "https://www.cnbc.com/2022/08/16/stockmarketfuturesopentoclosenews.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071048381660684878114nyse2.jpg?v=1660684914&w=1920&h=1080",
+            "publishedAt": "20220817T16:06:00Z",
+            "content": "Stocks fell on Wednesday as the rally on Wall Street that has propelled equity prices higher since midJune appeared to lose steam amid a fresh batch of retail earnings. \r\nThe Dow Jones Industrial Av… [+1642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Sharon LaFraniere",
+            "title": "Walensky, Citing Botched Pandemic Response, Calls for C.D.C. Reorganization  The New York Times",
+            "description": "Among other flaws, the public guidance during the coronavirus pandemic was “confusing and overwhelming,” the agency said.",
+            "url": "https://www.nytimes.com/2022/08/17/us/politics/cdcrochellewalenskycovid.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/17/us/politics/17dccdc/17dccdcfacebookJumbo.jpg",
+            "publishedAt": "20220817T16:00:24Z",
+            "content": "The external review Dr. Walensky ordered was led by James Macrae, who has held senior positions at the Department of Health and Human Services, which oversees the C.D.C. He interviewed about 120 peop… [+1322 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Bradner and Jeff Zeleny, CNN",
+            "title": "How Liz Cheney lost Wyoming's lone seat in the House  CNN",
+            "description": "Rep. Liz Cheney's supporters say her reelection hopes were doomed on January 13, 2021, when a week after the insurrection at the Capitol, she and nine other House Republicans voted to impeach former President Donald Trump.",
+            "url": "https://www.cnn.com/2022/08/17/politics/whylizcheneylost/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/22081623484807lizcheneyelectionnight081622supertease.jpg",
+            "publishedAt": "20220817T15:42:00Z",
+            "content": "Jackson, Wyoming (CNN)Rep. Liz Cheney's supporters say her reelection hopes were doomed on January 13, 2021, when a week after the insurrection at the Capitol, she and nine other House Republicans vo… [+12194 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "Target profit plunges 90% as inflationweary shoppers pull back  CNN",
+            "description": "Target reported profit plunged 90% in the second quarter, falling far short of expectations, as inflationweary customers pulled back on spending on nonessential items.",
+            "url": "https://www.cnn.com/2022/08/17/investing/targetearnings/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220817070139targetstore0728restrictedsupertease.jpg",
+            "publishedAt": "20220817T15:28:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usatoday",
+                "name": "USA Today"
+            },
+            "author": "Ella Lee",
+            "title": "Former VP Mike Pence says he would 'consider' testifying before Jan. 6 committee if asked  USA TODAY",
+            "description": "The former vice president said that it would be \"unprecedented\" to be \"summoned\" to testify before Congress, but he does not want to \"prejudge.\"",
+            "url": "https://www.usatoday.com/story/news/politics/2022/08/17/mikepenceconsidertestifyingjan6committee/10346454002/",
+            "urlToImage": "https://www.gannettcdn.com/presto/2022/08/17/USAT/857d1b9d748d4004bb34d9d520a72eadGTY_1242555323.jpg?crop=4419,2486,x0,y224&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "20220817T15:25:33Z",
+            "content": "Former Vice President Mike Pence said Wednesday he would consider testifying before the House Jan. 6 committee if asked, in some of his most direct and extensive remarks on the subject.\r\n\"If there wa… [+1946 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Chelsea Stewart",
+            "title": "“Love Is Blind” Couple Iyanna And Jarrette Just Announced They Are Getting Divorced  BuzzFeed",
+            "description": "Love Is Blind Season 2 stars Iyanna and Jarrette released a joint statement detailing how they’ve grown apart a year after getting married.",
+            "url": "https://www.buzzfeed.com/chelseastewart/loveisblindiyannajarrettedivorce",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeedstatic/static/202208/17/14/asset/a30cc18cf282/subbuzz519166074721815.jpg?crop=3000:1571;0,42%26downsize=1250:*",
+            "publishedAt": "20220817T15:07:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Myles Simmons",
+            "title": "Multiple players ejected for fighting, Kristian Wilkerson carted off from PatriotsPanthers practice  NBC Sports",
+            "description": "For two teams that barely play one another, the Patriots and Panthers sure seem to have beef.It’s the second day of joint practices between the two teams and it didn’t take long for things to escalate into another day of fighting.According to multiple reporte…",
+            "url": "https://profootballtalk.nbcsports.com/2022/08/17/multipleplayersejectedforfightingkristianwilkersoncartedofffrompatriotspantherspractice/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wpcontent/uploads/sites/25/2022/08/GettyImages1242555945e1660748741190.jpg",
+            "publishedAt": "20220817T15:06:00Z",
+            "content": "For two teams that barely play one another, the Patriots and Panthers sure seem to have beef.\r\nIts the second day of joint practices between the two teams and it didnt take long for things to escalat… [+1081 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motor1 "
+            },
+            "author": "Anthony Alaniz",
+            "title": "2023 Porsche 911 GT3 RS Debuts With 518 HP And Double The Downforce  Motor1 ",
+            "description": "The Porsche 911 GT3 RS is here, and it packs a naturally aspirated 4.0liter flatsix engine and features active aero, including a drag reduction system.",
+            "url": "https://www.motor1.com/news/604945/2023porsche911gt3rs/",
+            "urlToImage": "https://cdn.motor1.com/images/mgl/qkkj81/s1/porsche911gt3rs2022.jpg",
+            "publishedAt": "20220817T15:05:00Z",
+            "content": "The Porsche 911 GT3 RS is finally here. The highperformance car receives substantial upgrades to its cooling and aerodynamics systems that help enhance the cars capabilities.\r\nA new central radiator… [+2809 chars]"
+        },
+        {
+            "source": {
+                "id": "googlenews",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Pence condemns attacks on FBI after MaraLago search  The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzYwNTE2OC1wZW5jZS1jb25kZW1ucy1hdHRhY2tzLW9uLWZiaS1hZnRlci1tYXItYS1sYWdvLXNlYXJjaC_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "20220817T14:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wccftech"
+            },
+            "author": "Hassan Mujtaba",
+            "title": "AMD Ryzen 7000 “Zen 4” CPU Delay Rumors Mount Up, BIOS Said To Be The Main Culprit  Wccftech",
+            "description": "AMD's Ryzen 7000 Zen 4 CPU and the respective AM5 platform don't seem to have been delayed due to various BIOS issues.",
+            "url": "https://wccftech.com/amdryzen7000zen4cpudelayrumorsmountupbiossaidtobethemainculprit/",
+            "urlToImage": "https://cdn.wccftech.com/wpcontent/uploads/2022/08/AMDRyzen7000Zen4DesktopCPUAM5PlatformDelayBIOSIssues_2.jpg",
+            "publishedAt": "20220817T14:31:26Z",
+            "content": "AMD's Ryzen 7000 \"Zen 4\" CPU and the respective AM5 platform don't seem to be going through a smooth launch plan. Several rumors have sprung up prior to the 29th August unveil which state the chips m… [+4976 chars]"
+        },
+        {
+            "source": {
+                "id": "abcnews",
+                "name": "ABC News"
+            },
+            "author": "Mike Levine, Lucien Bruggeman",
+            "title": "Despite Trump's claims, experts say there's no 'magic wand' for a president to declassify documents  ABC News",
+            "description": "The president \"can't do it in secret,\" an expert says about declassification.",
+            "url": "https://abcnews.go.com/US/trumpsclaimsexpertsmagicwandpresidentdeclassifydocuments/story?id=88466588",
+            "urlToImage": "https://s.abcnews.com/images/US/documentdeclassifieddonaldtrump01gtyllr220816_1660698687462_hpMain_16x9_992.jpg",
+            "publishedAt": "20220817T14:23:49Z",
+            "content": "Former President Donald Trump isn't the first White House veteran to claim  in the midst of a criminal probe looking at their handling of government secrets  that the president can declassify alm… [+7331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "Security situation in Crimea deteriorates for Moscow; proRussian breakaway region cozies up to North Korea  CNBC",
+            "description": "Ukrainian President Volodymyr Zelenskyy has warned people in Crimea and other heavily occupied areas of Ukraine not to go near Russian military installations.",
+            "url": "https://www.cnbc.com/2022/08/17/liveupdateslatestnewsonrussiaandthewarinukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/1071050421660733805684gettyimages1242528664AFP_32GK8ZW.jpeg?v=1660733832&w=1920&h=1080",
+            "publishedAt": "20220817T14:10:00Z",
+            "content": "Swedish furniture giant IKEA has decided to liquidate its Russian unit, limited liability company IKEA Dom, further scaling back its operations after more than a decadelong presence in the country, … [+801 chars]"
+        },
+        {
+            "source": {
+                "id": "nflnews",
+                "name": "NFL News"
+            },
+            "author": "Nick Shook",
+            "title": "Chargers safety Derwin James signs fouryear, $76.5 million extension  NFL.com",
+            "description": "Derwin James signed a fouryear, $76.5 million extension with the Chargers that will make him the highestpaid safety in NFL history, NFL Network Insider Ian Rapoport reported Wednesday.",
+            "url": "https://www.nfl.com/news/chargersderwinjamessigningfouryearextension",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/z0cl0ysllhraig0ikawl",
+            "publishedAt": "20220817T14:09:00Z",
+            "content": "Doitall safety Derwin James is getting paid like one.\r\nJames signed a fouryear, $76.5 million extension with the Chargers, NFL Network Insider Ian Rapoport reported on Wednesday. The team later of… [+2255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Richard Fausset",
+            "title": "Rudy Giuliani to Face Atlanta Grand Jury Investigating Trump Today  The New York Times",
+            "description": "The former New York mayor has been told that he is a target in the investigation concerning whether Donald J. Trump and his associates tried to illegally influence the 2020 presidential election results in Georgia.",
+            "url": "https://www.nytimes.com/2022/08/17/us/giulianitrumpatlantaga.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/17/us/17atlantainquiry3/17atlantainquiry3facebookJumbo.jpg",
+            "publishedAt": "20220817T13:52:18Z",
+            "content": "Though it is not clear what charges Mr. Giuliani might face, witnesses who have already gone before the grand jury have said that the jurors were particularly interested in two appearances by Mr. Giu… [+1841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Thomas Catenacci",
+            "title": "Biden approves largest oil, gas lease sale in US history, steamrolls eco review with inflation bill  Fox Business",
+            "description": "President Biden approved a massive Gulf of Mexico fossil fuel lease sale, which his administration chose not to defend in court, when he signed the Inflation Reduction Act on Tuesday.",
+            "url": "https://www.foxbusiness.com/politics/bidenapproveslargestoilgasleasesaleushistorysteamrollsecoreviewinflationbill",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/BidenOildrillingwyoming.jpg?ve=1&tl=1",
+            "publishedAt": "20220817T13:32:59Z",
+            "content": "President Biden reinstated the largest oil and gas lease sale in U.S. history, essentially steamrolling the need for environmental review, by signing the Inflation Reduction Act into law on Tuesday.\r… [+3835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Braves sign rookie Michael Harris II to eightyear, $72 million contract extension  CBS Sports",
+            "description": "Harris is the latest young Braves player to sign a longterm deal",
+            "url": "https://www.cbssports.com/mlb/news/bravessignrookiemichaelharrisiitoeightyear72millioncontractextension/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/17/e3897097ff2c46cfb887a8b72f0582c1/thumbnail/1200x675/737a4d38952979336124bacc95bf8033/michaelharrisgetty.png",
+            "publishedAt": "20220817T13:26:00Z",
+            "content": "The Atlanta Braves have locked up another core player to a longterm extension. Outfielder Michael Harris II has signed an eightyear contract extension worth $72 million, the team announced Tuesday … [+2340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Mark Moore",
+            "title": "Murkowski, Tshibaka, Palin advance to November in Alaska races  New York Post ",
+            "description": "Sen. Murkowski was leading her rival Kelly Tshibaka by about 5,000 votes in Alaska, which for the first time used rankedchoice voting to determine the ballots.",
+            "url": "https://nypost.com/2022/08/17/murkowskitshibakapalinadvancetonovemberelections/",
+            "urlToImage": "https://nypost.com/wpcontent/uploads/sites/2/2022/08/newspresscollage234902741660742525360.jpg?quality=75&strip=all&1660728224&w=1024",
+            "publishedAt": "20220817T13:25:00Z",
+            "content": "Sen. Lisa Murkowski and her Trumpbacked challenger will both advance to the general election in Alaska, setting up a rematch in November — as Sarah Palin also moved ahead in her bid to win a seat in… [+3728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "SheHulk: Series Premiere Review  IGN",
+            "description": "SheHulk premieres Aug. 18, 2022, on Disney+. Review by Amelia Emberwing.SheHulk: Attorney At Law hits all the right notes as a sitcom while still nailing t...",
+            "url": "https://www.youtube.com/watch?v=DW8mFndu9Xg",
+            "urlToImage": "https://i.ytimg.com/vi/DW8mFndu9Xg/hqdefault.jpg",
+            "publishedAt": "20220817T13:00:58Z",
+            "content": null
+        }
+    ]
+}
